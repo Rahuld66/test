@@ -1,3 +1,10 @@
 this is my file
 please save it
+<<<<<<< HEAD
 my file
+=======
+this is my updated file
+please save for this
+my new line
+new line
+>>>>>>> 3134d4310f2d0c9bf637d00977f27afcd3ffda6d
