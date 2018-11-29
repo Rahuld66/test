@@ -1,4 +1,10 @@
 hae
 hello
 hiw are you
+<<<<<<< HEAD
 
+=======
+hvjmf
+anyway
+good looking
+>>>>>>> 3134d4310f2d0c9bf637d00977f27afcd3ffda6d
