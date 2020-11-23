@@ -1,2 +1,26 @@
 thisis [D[D[D [Cis my book
 i like this book
+hi here im writing smaple pipeline script
+
+pipeline {
+ agent agentany
+   stage {
+    stage (build) 
+      echo build some details infromation miain work inront of various perect manner
+    }
+   
+   stage {
+      stage ('test')  {
+        here you can deine anykind of perect manner in coutdown particular manner
+        
+    }
+    
+    stages {
+      stage ('deploy')
+      
+      here you can write the some smaple text to apper on the good manner
+      
+   }
+   
+   this kind of various things wil be happen in everytime
+      
