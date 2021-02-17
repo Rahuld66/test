@@ -1,0 +1,11 @@
+pipeline {
+  agentany
+    stages {
+      stage ('build')
+      here you can perorm some buoild related steps
+      }
+    
+    stage {
+      stage ('test')
+        here you can perorm some test kind of related steps so that it can give you one kin d pf clarity
+        curretntly im creating some more lines here
